@@ -1,0 +1,23 @@
+﻿<Shapes>
+  <Shape>
+    <code value ="1">1</code>
+    <Name>Rectangle</Name>
+    <Length>300</Length>
+    <Width>200</Width>
+    </Shape>
+  <Shape>
+    <code value ="2" >2</code>
+    <Name>Circle</Name>
+    <Diameter>200</Diameter>
+  </Shape>
+  <Shape>
+    <code value ="3">3</code>
+    <Name>Triangle</Name>
+    <cordinateX1>500</cordinateX1>
+    <cordinateY1>50</cordinateY1>
+    <cordinateX2>600</cordinateX2>
+    <cordinateY2>50</cordinateY2>
+    <cordinateX3>550</cordinateX3>
+    <cordinateY3>150</cordinateY3>
+  </Shape>
+</Shapes>

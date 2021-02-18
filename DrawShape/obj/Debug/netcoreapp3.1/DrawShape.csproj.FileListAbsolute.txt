@@ -1,0 +1,15 @@
+C:\Users\sothi\source\repos\DrawShape\DrawShape\bin\Debug\netcoreapp3.1\DrawShape.exe
+C:\Users\sothi\source\repos\DrawShape\DrawShape\bin\Debug\netcoreapp3.1\DrawShape.deps.json
+C:\Users\sothi\source\repos\DrawShape\DrawShape\bin\Debug\netcoreapp3.1\DrawShape.runtimeconfig.json
+C:\Users\sothi\source\repos\DrawShape\DrawShape\bin\Debug\netcoreapp3.1\DrawShape.runtimeconfig.dev.json
+C:\Users\sothi\source\repos\DrawShape\DrawShape\bin\Debug\netcoreapp3.1\DrawShape.dll
+C:\Users\sothi\source\repos\DrawShape\DrawShape\bin\Debug\netcoreapp3.1\DrawShape.pdb
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.csprojAssemblyReference.cache
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.Form1.resources
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.csproj.GenerateResource.cache
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.AssemblyInfoInputs.cache
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.AssemblyInfo.cs
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.csproj.CoreCompileInputs.cache
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.dll
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.pdb
+C:\Users\sothi\source\repos\DrawShape\DrawShape\obj\Debug\netcoreapp3.1\DrawShape.genruntimeconfig.cache
